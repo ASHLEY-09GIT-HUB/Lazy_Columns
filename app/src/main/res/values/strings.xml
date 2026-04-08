@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ronald</string>
+    <string name="search_placeholder">Search students...</string>
+    <string name="profile_picture_content_description">profile Picture</string>
+    <string name="button_present">Present</string>
+    <string name="button_mark_present">Mark Present</string>
+    <string name="search_icon_content_description">Search Icon</string>
+</resources>
